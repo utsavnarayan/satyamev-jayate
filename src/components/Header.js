@@ -1,8 +1,11 @@
 import * as React from "react";
 import PropTypes from "prop-types";
+import { Link as RouterLink } from "react-router-dom";
 import Toolbar from "@mui/material/Toolbar";
+import { Avatar } from "@mui/material";
 import Typography from "@mui/material/Typography";
 import Link from "@mui/material/Link";
+import logo from "../static/national-emblem.png";
 
 function Header() {
   return (
@@ -10,7 +13,8 @@ function Header() {
       <Toolbar
         sx={{ display: "flex", borderBottom: 1, borderColor: "divider" }}
       >
-        <Link underline="none" href="/">
+        <Link component={RouterLink} underline="none" to="/" sx={{ display: "flex" }}>
+          <Avatar src={logo} />
           <Typography
             component="h4"
             variant="h4"
