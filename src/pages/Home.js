@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Button from "@mui/material/Button";
-import logo from "../static/logo.svg";
+import logo from "../static/national-emblem.png";
 import "./Home.css";
 
 class LambdaDemo extends Component {
