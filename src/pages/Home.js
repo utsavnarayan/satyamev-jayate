@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Link from "@mui/material/Link";
 import Button from "@mui/material/Button";
 import logo from "../static/logo.svg";
 import "./Home.css";
