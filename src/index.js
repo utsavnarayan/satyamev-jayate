@@ -1,15 +1,33 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter } from "react-router-dom";
+
+import { createTheme, ThemeProvider } from "@mui/material/styles";
 import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import reportWebVitals from "./reportWebVitals";
 
+const theme = createTheme({
+ 
+});
+
+theme.typography.h1 = {
+  fontSize: '3rem',
+  '@media (min-width:600px)': {
+    fontSize: '4rem',
+  },
+  [theme.breakpoints.up('md')]: {
+    fontSize: '5rem',
+  },
+};
+
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
-      <App />
+      <ThemeProvider theme={theme}>
+        <App />
+      </ThemeProvider>
     </BrowserRouter>
   </React.StrictMode>,
   document.getElementById("root")

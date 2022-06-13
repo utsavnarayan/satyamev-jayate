@@ -5,7 +5,7 @@ import Toolbar from "@mui/material/Toolbar";
 import { Avatar } from "@mui/material";
 import Typography from "@mui/material/Typography";
 import Link from "@mui/material/Link";
-import logo from "../static/national-emblem.png";
+import logo from "../static/satyamev-jayate-logo.jpg";
 
 function Header(props) {
   const { sections, title } = props;
@@ -43,14 +43,12 @@ function Header(props) {
           </Typography>
         </Link>
       </Toolbar>
-      <Toolbar
-        component="nav"
-        variant="dense"
-        sx={{
-          justifyContent: "space-between",
-          overflowX: "auto",
-          borderBottom: 1,
-          borderColor: "divider",
+      <div
+        style={{
+          padding: "0.5rem",
+          display: "flex",
+          flexWrap: "wrap",
+          justifyContent: "center",
         }}
       >
         {sections.map((section) => (
@@ -62,15 +60,41 @@ function Header(props) {
             key={section.url}
             underline="none"
             style={{
-              fontSize: "1rem",
-              backgroundColor: "#EAEAEA",
               padding: "0.5rem",
             }}
           >
             <strong>{section.title}</strong>
           </Link>
         ))}
-      </Toolbar>
+        <Link
+          variant="contained"
+          size="large"
+          to="/photos"
+          target="_blank"
+          style={{
+            padding: "0.5rem",
+            fontWeight: "bold",
+          }}
+        >
+          <a href="https://drive.google.com/drive/folders/1E-yCxn_g5OtbnJXNIJ7UbLC5Ixmh_weP?usp=sharing">
+            Photos
+          </a>
+        </Link>
+        <Link
+          variant="contained"
+          size="large"
+          to="/admin"
+          target="_blank"
+          underline="none"
+          style={{
+            padding: "0.5rem",
+            fontWeight: "bold",
+          }}
+        >
+          <a href="http://65.1.124.115:8069/">Admin</a>
+        </Link>
+      </div>
+      <hr />
     </React.Fragment>
   );
 }
