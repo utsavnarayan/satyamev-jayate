@@ -66,6 +66,19 @@ function Header(props) {
             <strong>{section.title}</strong>
           </Link>
         ))}
+         <Link
+            component={RouterLink}
+            variant="contained"
+            size="large"
+            to={"/gallery"}
+            key={"/gallery"}
+            underline="none"
+            style={{
+              padding: "0.5rem",
+            }}
+          >
+            <strong>Gallery</strong>
+          </Link>
         <Link
           variant="contained"
           size="large"
@@ -77,9 +90,10 @@ function Header(props) {
           }}
         >
           <a href="https://drive.google.com/drive/folders/1E-yCxn_g5OtbnJXNIJ7UbLC5Ixmh_weP?usp=sharing">
-            Photos
+            Archive
           </a>
         </Link>
+       
         <Link
           variant="contained"
           size="large"

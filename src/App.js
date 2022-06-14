@@ -9,6 +9,7 @@ import About from "./pages/About";
 import Contribute from "./pages/Contribute";
 import Activities from "./pages/Activities";
 import Team from "./pages/Team";
+import Gallery from "./pages/Gallery";
 
 const sections = [
   // { title: "Register", url: "/register" },
@@ -33,6 +34,7 @@ class App extends Component {
           <Route path="about" element={<About />} />
           <Route path="activities" element={<Activities />} />
           <Route path="contribute" element={<Contribute />} />
+          <Route path="gallery" element={<Gallery />} />
           Activities
         </Routes>
       </div>

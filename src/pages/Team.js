@@ -38,12 +38,12 @@ const TEAM = [
   },
   {
     title: "Bhai RaamDhiraj",
-    designation: "",
+    designation: "Social Worker",
     photo: ramdhiraj,
   },
   {
     title: "Prof. Raja Vashishtha Tripathi",
-    designation: "",
+    designation: "Professor, BHU",
     photo: rajavashishtha,
   },
   {
