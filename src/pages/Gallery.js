@@ -59,21 +59,21 @@ class Gallery extends Component {
             src={photo112}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo113}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo114}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
         </Typography>
@@ -86,210 +86,210 @@ class Gallery extends Component {
             src={photo115}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo116}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo117}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo118}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo119}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo120}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo121}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo122}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo123}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo124}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo125}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo126}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo127}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo128}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo129}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo130}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo131}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo132}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo133}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo134}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo135}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo136}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo137}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo138}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo139}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo140}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo141}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo142}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo143}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo144}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
         </Typography>
@@ -317,77 +317,77 @@ class Gallery extends Component {
             src={photo101}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo102}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo103}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo104}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo105}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo106}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo107}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo108}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo109}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo110}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
           <img
             src={photo111}
             width="auto"
             height={240}
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", maxWidth: "95%" }}
             alt="event"
           />
         </Typography>
