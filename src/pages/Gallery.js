@@ -46,11 +46,53 @@ import photo141 from "../static/recentevent/41.jpg";
 import photo142 from "../static/recentevent/42.jpg";
 import photo143 from "../static/recentevent/43.jpg";
 import photo144 from "../static/recentevent/44.jpg";
+import photo145 from "../static/recentevent/45.jpg";
+import photo146 from "../static/recentevent/46.jpg";
+import photo147 from "../static/recentevent/47.jpg";
+import photo148 from "../static/recentevent/48.jpg";
+// import photo149 from "../static/recentevent/49.jpg";
+// import photo150 from "../static/recentevent/50.jpg";
+// import photo151 from "../static/recentevent/51.jpg";
+// import photo152 from "../static/recentevent/52.jpg";
 
 class Gallery extends Component {
   render() {
     return (
       <div className="App">
+        <Typography container="h4" variant="h4">
+          भ्रष्टाचार का प्रतिकार
+        </Typography>
+        <Typography>
+          <img
+            src={photo145}
+            width="auto"
+            height={500}
+            style={{ padding: "0.5rem" }}
+            alt="event"
+          />
+          <img
+            src={photo146}
+            width="auto"
+            height={500}
+            style={{ padding: "0.5rem" }}
+            alt="event"
+          />
+          <img
+            src={photo147}
+            width="auto"
+            height={500}
+            style={{ padding: "0.5rem" }}
+            alt="event"
+          />
+          <img
+            src={photo148}
+            width="auto"
+            height={300}
+            style={{ padding: "0.5rem" }}
+            alt="event"
+          />
+        </Typography>
+        <br />
         <Typography container="h4" variant="h4">
           2017 - Rashtriya Paricharcha (10 Year Anniversary)
         </Typography>
@@ -299,8 +341,8 @@ class Gallery extends Component {
         </Typography>
         <Typography>
           <iframe
-            width="320"
-            heightt="300"
+            width="600"
+            height="400"
             src="https://www.youtube.com/embed/Y4YKp9E-Ftk"
             title="YouTube video player"
             frameborder="0"
