@@ -18,13 +18,12 @@ const TEAM = [
     title: "Dr. Satyamev Jayate Bharat Lokmangal (Shyam Dhar Tiwari)",
     designation: "Deputy Commissioner",
     photo: sdtiwari,
-    phone: "94523 02585",
+    phone: "9452302585",
   },
   {
     title: "Sanatani Ramanand",
     designation: "Publisher, Social Worker",
     photo: ramanand,
-    phone: "96700 07733",
   },
   {
     title: "Prof. Krishna Bihari Pandey",
@@ -36,31 +35,27 @@ const TEAM = [
     title: "Naresh Kumar Vaidya",
     designation: "Director, Vaid's ICS",
     photo: naresh,
-    phone: "93113 37737",
   },
   {
     title: "Bhai RaamDhiraj",
     designation: "",
     photo: ramdhiraj,
-    phone: "94530 47097",
   },
   {
     title: "Prof. Raja Vashishtha Tripathi",
     designation: "",
     photo: rajavashishtha,
-    phone: "90056 39276",
   },
   {
     title: "Prof. P. K. Mishra",
     designation: "Vice Chancellor (Kulpati)",
     photo: pkmishr,
-    phone: "94153 01462",
   },
   {
     title: "Shukdev Mishra",
     designation: "Social Worker",
     photo: shukdev,
-    phone: "94510 00551",
+    phone: "9451000551",
   },
 ];
 
