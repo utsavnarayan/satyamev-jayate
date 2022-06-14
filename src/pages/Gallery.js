@@ -55,45 +55,243 @@ class Gallery extends Component {
           2017 - Rashtriya Paricharcha (10 Year Anniversary)
         </Typography>
         <Typography>
-          <img src={photo112} width={400} alt="photo" />
-          <img src={photo113} width={400} alt="photo" />
-          <img src={photo114} width={400} alt="photo" />
+          <img
+            src={photo112}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo113}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo114}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
         </Typography>
         <br />
         <Typography container="h4" variant="h4">
           2014 - Kaashi Swachchta Mahaabhiyaan
         </Typography>
         <Typography>
-          <img src={photo115} width={400} alt="photo" />
-          <img src={photo116} width={400} alt="photo" />
-          <img src={photo117} width={400} alt="photo" />
-          <img src={photo118} width={400} alt="photo" />
-          <img src={photo119} width={400} alt="photo" />
-          <img src={photo120} width={400} alt="photo" />
-          <img src={photo121} width={400} alt="photo" />
-          <img src={photo122} width={400} alt="photo" />
-          <img src={photo123} width={400} alt="photo" />
-          <img src={photo124} width={400} alt="photo" />
-          <img src={photo125} width={400} alt="photo" />
-          <img src={photo126} width={400} alt="photo" />
-          <img src={photo127} width={400} alt="photo" />
-          <img src={photo128} width={400} alt="photo" />
-          <img src={photo129} width={400} alt="photo" />
-          <img src={photo130} width={400} alt="photo" />
-          <img src={photo131} width={400} alt="photo" />
-          <img src={photo132} width={400} alt="photo" />
-          <img src={photo133} width={400} alt="photo" />
-          <img src={photo134} width={400} alt="photo" />
-          <img src={photo135} width={400} alt="photo" />
-          <img src={photo136} width={400} alt="photo" />
-          <img src={photo137} width={400} alt="photo" />
-          <img src={photo138} width={400} alt="photo" />
-          <img src={photo139} width={400} alt="photo" />
-          <img src={photo140} width={400} alt="photo" />
-          <img src={photo141} width={400} alt="photo" />
-          <img src={photo142} width={400} alt="photo" />
-          <img src={photo143} width={400} alt="photo" />
-          <img src={photo144} width={400} alt="photo" />
+          <img
+            src={photo115}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo116}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo117}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo118}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo119}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo120}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo121}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo122}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo123}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo124}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo125}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo126}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo127}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo128}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo129}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo130}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo131}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo132}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo133}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo134}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo135}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo136}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo137}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo138}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo139}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo140}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo141}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo142}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo143}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo144}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
         </Typography>
         <br />
         <Typography container="h4" variant="h4">
@@ -101,8 +299,8 @@ class Gallery extends Component {
         </Typography>
         <Typography>
           <iframe
-            width="400"
-            height="300"
+            width="320"
+            heightt="300"
             src="https://www.youtube.com/embed/Y4YKp9E-Ftk"
             title="YouTube video player"
             frameborder="0"
@@ -115,17 +313,83 @@ class Gallery extends Component {
           School - Tulsi Sansthan
         </Typography>
         <Typography>
-          <img src={photo101} width={400} alt="photo" />
-          <img src={photo102} width={400} alt="photo" />
-          <img src={photo103} width={400} alt="photo" />
-          <img src={photo104} width={400} alt="photo" />
-          <img src={photo105} width={400} alt="photo" />
-          <img src={photo106} width={400} alt="photo" />
-          <img src={photo107} width={400} alt="photo" />
-          <img src={photo108} width={400} alt="photo" />
-          <img src={photo109} width={400} alt="photo" />
-          <img src={photo110} width={400} alt="photo" />
-          <img src={photo111} width={400} alt="photo" />
+          <img
+            src={photo101}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo102}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo103}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo104}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo105}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo106}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo107}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo108}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo109}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo110}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
+          <img
+            src={photo111}
+            width="auto"
+            height={240}
+            style={{ padding: "0.5rem" }}
+            alt="photo"
+          />
         </Typography>
       </div>
     );
