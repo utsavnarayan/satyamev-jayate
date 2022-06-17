@@ -7,6 +7,7 @@ import naresh from "../static/team/naresh.jpg";
 import ramdhiraj from "../static/team/ramdhiraj.jpg";
 import pkmishr from "../static/team/pkmishr.jpg";
 import rajavashishtha from "../static/team/rajavashishtha.jpg";
+import devesh from "../static/team/devesh.jpg";
 import { Typography } from "@mui/material";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
@@ -56,6 +57,11 @@ const TEAM = [
     designation: "Social Worker",
     photo: shukdev,
     phone: "9451000551",
+  },
+  {
+    title: "Devesh Shastri",
+    designation: "Social Worker",
+    photo: devesh,
   },
 ];
 
