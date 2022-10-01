@@ -53,4 +53,4 @@ class Anthem extends Component {
   }
 }
 
-export default Activities;
+export default Anthem;
