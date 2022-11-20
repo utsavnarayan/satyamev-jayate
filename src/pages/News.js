@@ -2,21 +2,21 @@ import React, { Component } from "react";
 import "./Home.css";
 import { Typography } from "@mui/material";
 
-import photo101 from "../static/recentevent/1.jpeg";
-import photo102 from "../static/recentevent/2.jpeg";
-import photo103 from "../static/recentevent/3.jpeg";
-import photo104 from "../static/recentevent/4.jpeg";
-import photo105 from "../static/recentevent/5.jpeg";
-import photo106 from "../static/recentevent/6.jpeg";
-import photo107 from "../static/recentevent/7.jpeg";
-import photo108 from "../static/recentevent/8.jpeg";
-import photo109 from "../static/recentevent/9.jpeg";
-import photo110 from "../static/recentevent/10.jpeg";
-import photo111 from "../static/recentevent/11.jpeg";
-import photo112 from "../static/recentevent/12.jpeg";
-import photo113 from "../static/recentevent/13.jpeg";
-import photo114 from "../static/recentevent/14.jpeg";
-import photo115 from "../static/recentevent/15.jpeg";
+import photo101 from "../static/news/1.jpeg";
+import photo102 from "../static/news/2.jpeg";
+import photo103 from "../static/news/3.jpeg";
+import photo104 from "../static/news/4.jpeg";
+import photo105 from "../static/news/5.jpeg";
+import photo106 from "../static/news/6.jpeg";
+import photo107 from "../static/news/7.jpeg";
+import photo108 from "../static/news/8.jpeg";
+import photo109 from "../static/news/9.jpeg";
+import photo110 from "../static/news/10.jpeg";
+import photo111 from "../static/news/11.jpeg";
+import photo112 from "../static/news/12.jpeg";
+import photo113 from "../static/news/13.jpeg";
+import photo114 from "../static/news/14.jpeg";
+import photo115 from "../static/news/15.jpeg";
 
 class News extends Component {
   render() {
