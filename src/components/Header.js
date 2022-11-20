@@ -120,7 +120,7 @@ function Header(props) {
           <a href="https://forms.gle/2M69gWZ2hkBWeBSF6">
             Help
           </a>
-        </Link>        
+        </Link> 
         <Link
           variant="contained"
           size="large"
@@ -132,7 +132,20 @@ function Header(props) {
             fontWeight: "bold",
           }}
         >
-          <a href="http://65.1.124.115:8069/">Admin</a>
+          <a href="https://forms.gle/fFdiAEpJrrTm49RV6">Register</a>
+        </Link>       
+        <Link
+          variant="contained"
+          size="large"
+          to="/admin"
+          target="_blank"
+          underline="none"
+          style={{
+            padding: "0.5rem",
+            fontWeight: "bold",
+          }}
+        >
+          <a href="https://aironax.in/pantomath">Admin</a>
         </Link>
       </div>
       <hr />
