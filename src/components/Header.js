@@ -93,6 +93,20 @@ function Header(props) {
             Archive
           </a>
         </Link>
+        <Link
+          variant="contained"
+          size="large"
+          to="/photos"
+          target="_blank"
+          style={{
+            padding: "0.5rem",
+            fontWeight: "bold",
+          }}
+        >
+          <a href="https://www.youtube.com/c/SatyamevJayateSATYAMEVJAYATE">
+            Youtube Videos
+          </a>
+        </Link>
        
         <Link
           variant="contained"

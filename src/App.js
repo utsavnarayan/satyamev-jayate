@@ -6,6 +6,7 @@ import Home from "./pages/Home";
 import Register from "./pages/Register";
 import Members from "./pages/Members";
 import About from "./pages/About";
+import News from "./pages/News";
 import Contribute from "./pages/Contribute";
 import Activities from "./pages/Activities";
 import Anthem from "./pages/Anthem";
@@ -16,6 +17,7 @@ const sections = [
   // { title: "Register", url: "/register" },
   // { title: "Members", url: "/members" },
   { title: "About", url: "/about" },
+  { title: "News", url: "/news" },
   { title: "Activities", url: "/activities" },
   { title: "Anthem", url: "/anthem" },
   { title: "Contribute", url: "/contribute" },
@@ -34,6 +36,7 @@ class App extends Component {
           <Route path="members" element={<Members />} />
           <Route path="team" element={<Team />} />
           <Route path="about" element={<About />} />
+          <Route path="news" element={<News />} />
           <Route path="anthem" element={<Anthem />} />
           <Route path="activities" element={<Activities />} />
           <Route path="contribute" element={<Contribute />} />
