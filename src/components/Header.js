@@ -104,10 +104,23 @@ function Header(props) {
           }}
         >
           <a href="https://www.youtube.com/c/SatyamevJayateSATYAMEVJAYATE">
-            Youtube Videos
+            Youtube
           </a>
         </Link>
-       
+        <Link
+          variant="contained"
+          size="large"
+          to="/photos"
+          target="_blank"
+          style={{
+            padding: "0.5rem",
+            fontWeight: "bold",
+          }}
+        >
+          <a href="https://forms.gle/2M69gWZ2hkBWeBSF6">
+            Help
+          </a>
+        </Link>        
         <Link
           variant="contained"
           size="large"
