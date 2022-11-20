@@ -18,7 +18,7 @@ import photo113 from "../static/recentevent/13.jpeg";
 import photo114 from "../static/recentevent/14.jpeg";
 import photo115 from "../static/recentevent/15.jpeg";
 
-class Gallery extends Component {
+class News extends Component {
   render() {
     return (
       <div className="App">
@@ -151,4 +151,4 @@ class Gallery extends Component {
   }
 }
 
-export default Gallery;
+export default News;
